@@ -1,0 +1,14 @@
+{
+  "name": "e-com-tailwind",
+  "version": "1.0.0",
+  "description": "Build demo e-commerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "e-commerce"
+  ],
+  "author": "devrod061",
+  "license": "ISC"
+}
